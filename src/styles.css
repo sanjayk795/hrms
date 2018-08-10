@@ -1,0 +1,103 @@
+/* You can add global styles to this file, and also import other style files */
+
+.sidebar .nav li.active>a {
+    background: #f26722
+}
+
+.card-stats .card-header {
+    border-radius: 100%;
+}
+
+.card-stats .card-header i {
+    font-style: normal;
+    height: 40px;
+    width: 40px;
+    font-size: 24px;
+    line-height: 24px;
+}
+
+.card.card-stats {
+    text-align: center
+}
+
+.card-stats .card-header {
+    float: none;
+    display: inline-block;
+}
+
+.card-stats .title {
+    font-size: 20px;
+}
+
+.navbar.navbar-transparent {
+    background: #fff;
+}
+
+.fade.show {
+    opacity: 1;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.txt-sec {
+    display: inline-block;
+    color: #ed6623;
+    font-size: 18px;
+    line-height: 24px;
+    background: url('assets/img/line.png') no-repeat 0 0;
+    padding-left: 15px;
+    margin-left: 15px
+}
+
+.main-right ul li {
+    background: url('assets/img/line.png') no-repeat 0 0;
+}
+
+.main-right ul li:first-child {
+    background: none;
+}
+
+.modal-title {
+    color: #fff;
+    display: inline-block;
+}
+
+.navbar-fixed {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: 10;
+}
+
+.logo {
+    display: inline-block;
+    vertical-align: top
+}
+
+.login-page {
+    background: url('assets/img/login-bg.png') no-repeat 0 0/cover;
+}
+
+.login-page .main-panel {
+    width: 100%;
+}
+
+.login-top {
+    background: #EEEEEE;
+    float: left;
+    width: 100%;
+    padding: 40px 0px;
+    text-align: center;
+}
+
+.login-card {
+    background: #26295c;
+    border: 1px #3d43a2 solid;
+    color: #fff;
+    padding: 0 25px;
+    margin-top: 50px;
+}

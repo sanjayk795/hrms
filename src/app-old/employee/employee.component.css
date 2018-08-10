@@ -1,0 +1,18 @@
+.btn-group {
+    margin-top: 30px;
+}
+
+.filter-sec {
+    background: #555d8c;
+    display: inline-block;
+    margin: 0 5px;
+}
+
+.filter-sec .form-control {
+    color: #fff;
+}
+
+.table-center th,
+.table-center td {
+    text-align: center
+}
